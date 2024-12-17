@@ -1,0 +1,1 @@
+var API="https://ttsgps.in/getandrojsonforNewIphone.jsp?";
